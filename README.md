@@ -9,8 +9,8 @@ class SobreMim extends Desenvolvedor {
 
 class Skills extends Desenvolvedor {
   linguagens  = ['Typescript/Javascript, HTML, CSS'];
-  bibliotecas  = ['React.js, React Router, React Hooks, Context API, Node.js, Redux, Express, Sequelize, Mocha, Sinon, Chai'];
-  frameworks = ['Jest, RTL, Docker & Docker COmpose'];
+  bibliotecas  = ['React.js, React Router, React Hooks, Context API, Node.js, Redux'];
+  frameworks = ['Express, Sequelize, Mocha, Sinon, Chai, Jest, RTL, Docker & Docker Compose'];
   databases = ['MySQL e MongoDB'];
 }
 ```
