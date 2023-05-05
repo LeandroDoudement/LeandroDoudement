@@ -11,7 +11,7 @@ class Skills extends Desenvolvedor {
   linguagens  = ['Typescript/Javascript, HTML, CSS'];
   bibliotecas  = ['React.js, React Router, React Hooks, Context API, Node.js, Redux, Express, Sequelize, Mocha, Sinon, Chai'];
   frameworks = ['Jest, RTL, Docker & Docker COmpose'];
-  banco de dados = ['MySQL e MongoDB'];
+  databases = ['MySQL e MongoDB'];
 }
 ```
 
