@@ -2,16 +2,16 @@
 import Desenvolvedor from 'LeandroDoudement';
 
 class SobreMim extends Desenvolvedor {
-  nome     = 'Leandro Doudement França';
-  area    = 'Engenharia de Software';
+  nome = 'Leandro Doudement França';
+  area = 'Engenharia de Software';
   local = 'Goiânia/GO';
 }
 
 class Skills extends Desenvolvedor {
-  linguagens  = ['Typescript/Javascript, HTML, CSS'];
-  bibliotecas  = ['React.js, React Router, React Hooks, Context API, Node.js, Redux'];
-  frameworks = ['Express, Sequelize, Mocha, Sinon, Chai, Jest, RTL, Docker & Docker Compose'];
-  databases = ['MySQL e MongoDB'];
+  linguagens = ['Typescript/Javascript', 'HTML', 'CSS'];
+  bibliotecas = ['React.js', 'React Router', 'React Hooks', 'Context API', 'Node.js', 'Redux', 'Material UI', 'Styled components'];
+  frameworks = ['Next.js', 'Express.js', 'Sequelize', 'Mocha', 'Sinon', 'Chai', 'Jest', 'RTL'];
+  databases = ['MySQL', 'MongoDB'];
 }
 ```
 
